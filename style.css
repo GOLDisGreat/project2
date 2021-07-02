@@ -144,7 +144,6 @@ nav .fa {
   }
   .nav-links ul li a:hover {
     background: black;
-    transition: 1s;
   }
 }
 /* course */
